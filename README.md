@@ -27,9 +27,9 @@ We leverage cutting-edge artificial intelligence to create personalized, adaptiv
 
 To democratize quality education by harnessing the power of AI, making personalized learning accessible to students and educators worldwide.
 
-## 🔗 Connect With Us
+## 💫 Join Us
 
-We're building the future of education, one innovation at a time.
+We're building the future of education, one innovation at a time. Explore our repositories to see how we're making it happen!
 
 ---
 
