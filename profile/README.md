@@ -1,4 +1,6 @@
-# Welcome to AI Prep 👋
+# Welcome to Aioneq 
+
+# AI Prep
 
 ![AI Prep Banner](https://img.shields.io/badge/AI-Powered%20Learning-blue?style=for-the-badge)
 
