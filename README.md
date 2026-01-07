@@ -6,9 +6,9 @@
 
 AI Prep is an innovative **AI-powered Learning Management System (LMS)** designed to revolutionize education for:
 
-- 🏫 **Schools** - Empowering K-12 education with intelligent learning tools
+- 🏫 **Schools** - Empowering Class 1 through 12 education with intelligent learning tools
 - 🎓 **Universities** - Supporting higher education with advanced course management
-- 📚 **Competitive Exam Coaching Centers** - Preparing students for success with AI-driven insights
+- 📚 **Competitive Exam Coaching** - Specialized preparation for NEET, JEE, UPSC, CAT, and other competitive examinations
 
 ## 🚀 What We Do
 
